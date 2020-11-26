@@ -32,3 +32,28 @@
 
 ---
 ## 20.11.26
+
+주제 확정
+
+- open pose 활용
+  - https://github.com/microsoft/human-pose-estimation.pytorch
+  - https://github.com/ildoonet/tf-pose-estimation
+  - https://github.com/facebookresearch/VideoPose3D
+  - https://github.com/luvimperfection/pose-estimation
+  - https://github.com/NVIDIA-AI-IOT/trt_pose
+  - https://m.blog.naver.com/shino1025/221607197982
+  
+- 자세 교정
+  - 걸을 때: 어깨와 목 자세
+  - 앉을 때: 어깨, 목, 허리, 등
+    - 앉을 때: 얼마나 앉아있는지, 몇 % 바른 자세로 있었는지, 바른 자세가 아니면 컴퓨터 화면에 알림 띄우기
+
+- 알림: opencv 사용 (사용자가 젯슨을 메인으로 쓰고있다는 가정하에 - 만약 시간이 남으면 앱 혹은 서버로 알림 찾아보기)
+
+- 최적화
+
+- 성능 비교(mAP, evaluation)
+
+- 발표 준비
+
+---

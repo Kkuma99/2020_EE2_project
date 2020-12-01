@@ -73,5 +73,8 @@ pose-estimation 실행 방법
   - MODE = "MPI" // COCO와 다르게 허리에 점
   - cv2.imshow 주석 // 원격으로 display 불가능
   
+- 결과
+  - Output-Skeleton.jpg : 선과 점 표시
+  - Output-Keypoints.jpg : 점과 번호 표시
  
 

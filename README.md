@@ -69,6 +69,7 @@ pose-estimation 실행 방법
   - sudo chmod a+x getModels.sh
   - ./getModels.sh
 
+
 - OpenPoseImage.py 수정
   - MODE = "MPI" // COCO와 다르게 허리에 점
   - cv2.imshow 주석 // 원격으로 display 불가능

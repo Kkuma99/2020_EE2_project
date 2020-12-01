@@ -63,12 +63,11 @@ pose-estimation 실행 방법
 
 -github : https://github.com/luvimperfection/pose-estimation
 
--설치 순서
+- 설치 순서
   - git clone https://github.com/spmallick/learnopencv.git
   - cd learnopencv/OpenPose
   - sudo chmod a+x getModels.sh
   - ./getModels.sh
-
 
 - OpenPoseImage.py 수정
   - MODE = "MPI" // COCO와 다르게 허리에 점

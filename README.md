@@ -69,13 +69,13 @@ pose-estimation 실행 방법
   - sudo chmod a+x getModels.sh
   - ./getModels.sh
 
-- OpenPoseImage.py 수정
+- OpenPoseImage.py 수정 (영상:OpenPoseVideo.py)
   - MODE = "MPI" // COCO와 다르게 허리에 점
   - cv2.imshow 주석 // 원격으로 display 불가능
   - cv2.imread("파일 이름")
   
 - 실행
-  - python3 OpenPoseImage.py
+  - python3 OpenPoseImage.py (영상:OpenPoseVideo.py)
   
 - 결과
   - Output-Skeleton.jpg : 선과 점 표시

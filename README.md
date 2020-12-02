@@ -58,7 +58,7 @@
 
 ---
 ## 20.12.01
-
+### 시민
 pose-estimation 실행 방법
 
 -github : https://github.com/luvimperfection/pose-estimation
@@ -81,4 +81,16 @@ pose-estimation 실행 방법
   - Output-Skeleton.jpg : 선과 점 표시
   - Output-Keypoints.jpg : 점과 번호 표시
  
+---
+## 20.12.02
+### 민지
+
+- 동영상에 각도 코드 적용
+- 데이터 몇개 가지고 테스트 진행
+
+- 할일:
+  1. 동영상 종료 조건 진행
+  2. 각도 동영상에 표시하기
+  3. 각도 확실하게 지정
+  4. 옳은 자세 틀린 자세 구분 코드 수정
 

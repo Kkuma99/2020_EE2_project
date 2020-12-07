@@ -146,7 +146,7 @@ while cv2.waitKey(1) < 0:
                 if (160 <= getAngle3P(0,1,14) <= 180) and (165 <= getAngle3P(1,14,11) <= 180) and (100 <= getAngle3P(14,11,12) <= 120) :
                     cv2.putText(frame, "proper pose", (30,30), cv2.FONT_HERSHEY_COMPLEX, .8, (255, 50, 0), 2, lineType=cv2.LINE_AA)
                 else:
-                    cv2.putText(frame, "wrong pose", (30,30), cv2.FONT_HERSHEY_COMPLEX, .8, (255, 50, 0), 2, lineType=cv2.LINE_AA)
+                    cv2.putText(frame, "wrong pose", (30,30), cv2.FONT_HERSHEY_COMPLEX, .8, (0, 0, 255), 2, lineType=cv2.LINE_AA)
                     
                 cv2.line(frame, points[partA], points[partB], (0, 255, 255), 3, lineType=cv2.LINE_AA)
                 cv2.circle(frame, points[partA], 8, (0, 0, 255), thickness=-1, lineType=cv2.FILLED)
@@ -161,13 +161,13 @@ while cv2.waitKey(1) < 0:
                 if (160 <= getAngle3P(0,1,14) <= 180) and (165 <= getAngle3P(1,14,8) <= 180) and (100 <= getAngle3P(14,8,9) <= 120) :
                     cv2.putText(frame, "proper pose", (30,30), cv2.FONT_HERSHEY_COMPLEX, .8, (255, 50, 0), 2, lineType=cv2.LINE_AA)
                 else:
-                    cv2.putText(frame, "wrong pose", (30,30), cv2.FONT_HERSHEY_COMPLEX, .8, (255, 50, 0), 2, lineType=cv2.LINE_AA)
+                    cv2.putText(frame, "wrong pose", (30,30), cv2.FONT_HERSHEY_COMPLEX, .8, (0, 0, 255), 2, lineType=cv2.LINE_AA)
 
                 cv2.line(frame, points[partA], points[partB], (0, 255, 255), 3, lineType=cv2.LINE_AA)
                 cv2.circle(frame, points[partA], 8, (0, 0, 255), thickness=-1, lineType=cv2.FILLED)
                 cv2.circle(frame, points[partB], 8, (0, 0, 255), thickness=-1, lineType=cv2.FILLED)
 
-    cv2.putText(frame, "time taken = {:.2f} sec".format(time.time() - t), (50, 150), cv2.FONT_HERSHEY_COMPLEX, .8, (255, 50, 0), 2, lineType=cv2.LINE_AA)
+    cv2.putText(frame, "time taken = {:.2f} sec".format(time.time() - t), (250, 30), cv2.FONT_HERSHEY_COMPLEX, .8, (255, 50, 0), 2, lineType=cv2.LINE_AA)
 
     # angle print
     cv2.putText(frame, "angle:{:.0f}".format(getAngle3P(0,1,14)), (int(point_x[1]), int(point_y[1])), cv2.FONT_HERSHEY_PLAIN, 0.8, (0, 0, 0), 2, lineType=cv2.LINE_AA)

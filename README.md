@@ -151,3 +151,10 @@ pose-estimation 실행 방법
 - 옳고 그름 판단 코드 수정 필요 - 값이 정확하지 않으니 옳은 자세도 거의 틀린자세로 뜸
 - 각도 글씨 키우고 비주얼 요소 수정 (ㅇ)
 - gpu : https://www.pyimagesearch.com/2020/02/03/how-to-use-opencvs-dnn-module-with-nvidia-gpus-cuda-and-cudnn/
+
+---
+## 20.12.07
+### 상우
+- video streaming : https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/
+                    https://towardsdatascience.com/video-streaming-in-web-browsers-with-opencv-flask-93a38846fe00
+                    

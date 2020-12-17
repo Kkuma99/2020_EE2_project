@@ -39,7 +39,7 @@ threshold = 0.34 # 적절한 쓰레시 값
 
 #********************************* video input 처리 ************************************#
 
-input_source = args.video_file       #사용자에게 input 받은 비디오 파일 사용
+#input_source = args.video_file       #사용자에게 input 받은 비디오 파일 사용
 #cap = cv2.VideoCapture(input_source)
 cap = cv2.VideoCapture(streams["360p"].url) # 비디오 스트림 사용
 hasFrame, frame = cap.read()                # 스트림 읽어서 적용

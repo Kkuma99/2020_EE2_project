@@ -158,3 +158,17 @@ pose-estimation 실행 방법
 - video streaming : https://www.pyimagesearch.com/2019/04/15/live-video-streaming-over-network-with-opencv-and-imagezmq/
                     https://towardsdatascience.com/video-streaming-in-web-browsers-with-opencv-flask-93a38846fe00
                     
+---
+## 20.12.17
+### 민지
+- 비디오 스트림 문제 해결
+  - 파이썬 라이브러리 사용
+  - 유튜브로 현재 자세 스트리밍 진행 후 받아서 비디오캡쳐 쓰기
+  - 인풋 사이즈 확정
+  
+### 시민
+- 결과 텍스트 파일 저장
+
+### 우상우
+- 보고서 작성
+                    

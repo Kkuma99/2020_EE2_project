@@ -1,0 +1,989 @@
+2020-12-17
+
+Now time : 16:18:22
+Now percentage : 100.0%
+Recoding Time : 4.07s
+
+Now time : 16:18:26
+Now percentage : 100.0%
+Recoding Time : 8.07s
+
+Now time : 16:18:30
+Now percentage : 100.0%
+Recoding Time : 12.09s
+
+Now time : 16:18:34
+Now percentage : 100.0%
+Recoding Time : 16.06s
+
+Now time : 16:18:38
+Now percentage : 100.0%
+Recoding Time : 20.04s
+
+Now time : 16:18:42
+Now percentage : 100.0%
+Recoding Time : 24.04s
+
+Now time : 16:18:46
+Now percentage : 100.0%
+Recoding Time : 28.05s
+
+Now time : 16:18:50
+Now percentage : 100.0%
+Recoding Time : 32.07s
+
+Now time : 16:18:54
+Now percentage : 100.0%
+Recoding Time : 36.07s
+
+Now time : 16:18:58
+Now percentage : 100.0%
+Recoding Time : 40.05s
+
+Now time : 16:19:02
+Now percentage : 100.0%
+Recoding Time : 44.03s
+
+Now time : 16:19:06
+Now percentage : 100.0%
+Recoding Time : 48.05s
+
+Now time : 16:19:10
+Now percentage : 100.0%
+Recoding Time : 52.12s
+
+Now time : 16:19:14
+Now percentage : 100.0%
+Recoding Time : 56.27s
+
+Now time : 16:19:18
+Now percentage : 100.0%
+Recoding Time : 60.3s
+
+Now time : 16:19:22
+Now percentage : 100.0%
+Recoding Time : 64.3s
+
+Now time : 16:19:26
+Now percentage : 100.0%
+Recoding Time : 68.37s
+
+Now time : 16:19:30
+Now percentage : 100.0%
+Recoding Time : 72.37s
+
+Now time : 16:19:34
+Now percentage : 100.0%
+Recoding Time : 76.37s
+
+Now time : 16:19:38
+Now percentage : 100.0%
+Recoding Time : 80.36s
+
+Now time : 16:19:42
+Now percentage : 100.0%
+Recoding Time : 84.34s
+
+Now time : 16:19:46
+Now percentage : 100.0%
+Recoding Time : 88.32s
+
+Now time : 16:19:50
+Now percentage : 100.0%
+Recoding Time : 92.31s
+
+Now time : 16:20:23
+Now percentage : 100.0%
+Recoding Time : 124.92s
+
+Now time : 16:20:27
+Now percentage : 100.0%
+Recoding Time : 128.93s
+
+Now time : 16:20:31
+Now percentage : 100.0%
+Recoding Time : 132.97s
+
+Now time : 16:20:35
+Now percentage : 100.0%
+Recoding Time : 136.98s
+
+Now time : 16:20:39
+Now percentage : 100.0%
+Recoding Time : 140.96s
+
+Now time : 16:20:43
+Now percentage : 100.0%
+Recoding Time : 144.93s
+
+Now time : 16:20:47
+Now percentage : 100.0%
+Recoding Time : 148.92s
+
+Now time : 16:20:51
+Now percentage : 100.0%
+Recoding Time : 152.94s
+
+Now time : 16:20:55
+Now percentage : 100.0%
+Recoding Time : 156.91s
+
+Now time : 16:20:59
+Now percentage : 100.0%
+Recoding Time : 160.89s
+
+Now time : 16:21:03
+Now percentage : 100.0%
+Recoding Time : 164.96s
+
+Now time : 16:21:07
+Now percentage : 100.0%
+Recoding Time : 168.96s
+
+Now time : 16:21:11
+Now percentage : 100.0%
+Recoding Time : 173.0s
+
+Now time : 16:21:15
+Now percentage : 100.0%
+Recoding Time : 177.0s
+
+Now time : 16:21:19
+Now percentage : 100.0%
+Recoding Time : 181.04s
+
+Now time : 16:21:23
+Now percentage : 100.0%
+Recoding Time : 185.16s
+
+Now time : 16:21:27
+Now percentage : 100.0%
+Recoding Time : 189.25s
+
+Now time : 16:21:31
+Now percentage : 100.0%
+Recoding Time : 193.23s
+
+Now time : 16:21:35
+Now percentage : 100.0%
+Recoding Time : 197.23s
+
+Now time : 16:21:39
+Now percentage : 100.0%
+Recoding Time : 201.24s
+
+Now time : 16:21:43
+Now percentage : 100.0%
+Recoding Time : 205.23s
+
+Now time : 16:21:47
+Now percentage : 100.0%
+Recoding Time : 209.21s
+
+Now time : 16:21:51
+Now percentage : 100.0%
+Recoding Time : 213.18s
+
+Now time : 16:21:55
+Now percentage : 100.0%
+Recoding Time : 217.18s
+
+Now time : 16:21:59
+Now percentage : 100.0%
+Recoding Time : 221.16s
+
+Now time : 16:22:03
+Now percentage : 100.0%
+Recoding Time : 225.13s
+
+Now time : 16:22:07
+Now percentage : 100.0%
+Recoding Time : 229.15s
+
+Now time : 16:22:11
+Now percentage : 100.0%
+Recoding Time : 233.2s
+
+Now time : 16:22:15
+Now percentage : 100.0%
+Recoding Time : 237.24s
+
+Now time : 16:22:19
+Now percentage : 100.0%
+Recoding Time : 241.26s
+
+Now time : 16:22:24
+Now percentage : 100.0%
+Recoding Time : 246.31s
+
+Now time : 16:22:28
+Now percentage : 100.0%
+Recoding Time : 250.27s
+
+Now time : 16:22:32
+Now percentage : 100.0%
+Recoding Time : 254.23s
+
+Now time : 16:22:36
+Now percentage : 100.0%
+Recoding Time : 258.19s
+
+Now time : 16:22:40
+Now percentage : 100.0%
+Recoding Time : 262.14s
+
+Now time : 16:22:44
+Now percentage : 100.0%
+Recoding Time : 266.14s
+
+Now time : 16:22:48
+Now percentage : 100.0%
+Recoding Time : 270.11s
+
+Now time : 16:22:52
+Now percentage : 100.0%
+Recoding Time : 274.07s
+
+Now time : 16:22:56
+Now percentage : 100.0%
+Recoding Time : 278.02s
+
+Now time : 16:23:00
+Now percentage : 100.0%
+Recoding Time : 281.97s
+
+Now time : 16:23:04
+Now percentage : 100.0%
+Recoding Time : 285.98s
+
+Now time : 16:23:08
+Now percentage : 100.0%
+Recoding Time : 289.95s
+
+Now time : 16:23:12
+Now percentage : 100.0%
+Recoding Time : 293.94s
+
+Now time : 16:23:16
+Now percentage : 100.0%
+Recoding Time : 297.9s
+
+Now time : 16:23:20
+Now percentage : 100.0%
+Recoding Time : 301.86s
+
+Now time : 16:23:24
+Now percentage : 100.0%
+Recoding Time : 305.91s
+
+Now time : 16:23:28
+Now percentage : 100.0%
+Recoding Time : 310.0s
+
+Now time : 16:23:32
+Now percentage : 100.0%
+Recoding Time : 313.95s
+
+Now time : 16:23:36
+Now percentage : 100.0%
+Recoding Time : 317.9s
+
+Now time : 16:23:40
+Now percentage : 100.0%
+Recoding Time : 321.93s
+
+Now time : 16:23:44
+Now percentage : 100.0%
+Recoding Time : 325.91s
+
+Now time : 16:23:48
+Now percentage : 100.0%
+Recoding Time : 329.93s
+
+Now time : 16:23:52
+Now percentage : 100.0%
+Recoding Time : 333.99s
+
+Now time : 16:23:56
+Now percentage : 100.0%
+Recoding Time : 338.0s
+
+Now time : 16:24:00
+Now percentage : 100.0%
+Recoding Time : 342.01s
+
+Now time : 16:24:04
+Now percentage : 100.0%
+Recoding Time : 346.0s
+
+Now time : 16:24:08
+Now percentage : 100.0%
+Recoding Time : 349.98s
+
+Now time : 16:24:12
+Now percentage : 100.0%
+Recoding Time : 353.96s
+
+Now time : 16:24:16
+Now percentage : 100.0%
+Recoding Time : 357.95s
+
+Now time : 16:24:20
+Now percentage : 100.0%
+Recoding Time : 361.9s
+
+Now time : 16:24:24
+Now percentage : 100.0%
+Recoding Time : 365.85s
+
+Now time : 16:24:32
+Now percentage : 100.0%
+Recoding Time : 374.52s
+
+Now time : 16:24:36
+Now percentage : 100.0%
+Recoding Time : 378.52s
+
+Now time : 16:24:40
+Now percentage : 100.0%
+Recoding Time : 382.5s
+
+Now time : 16:24:44
+Now percentage : 100.0%
+Recoding Time : 386.47s
+
+Now time : 16:24:48
+Now percentage : 100.0%
+Recoding Time : 390.43s
+
+Now time : 16:24:52
+Now percentage : 100.0%
+Recoding Time : 394.42s
+
+Now time : 16:24:56
+Now percentage : 100.0%
+Recoding Time : 398.38s
+
+Now time : 16:25:00
+Now percentage : 100.0%
+Recoding Time : 402.43s
+
+Now time : 16:25:04
+Now percentage : 100.0%
+Recoding Time : 406.45s
+
+Now time : 16:25:08
+Now percentage : 100.0%
+Recoding Time : 410.44s
+
+Now time : 16:25:12
+Now percentage : 100.0%
+Recoding Time : 414.41s
+
+Now time : 16:25:16
+Now percentage : 100.0%
+Recoding Time : 418.37s
+
+Now time : 16:25:20
+Now percentage : 100.0%
+Recoding Time : 422.37s
+
+Now time : 16:25:24
+Now percentage : 100.0%
+Recoding Time : 426.37s
+
+Now time : 16:25:28
+Now percentage : 99.00990099009901%
+Recoding Time : 430.43s
+
+Now time : 16:25:32
+Now percentage : 98.0392156862745%
+Recoding Time : 434.55s
+
+Now time : 16:25:37
+Now percentage : 98.05194805194806%
+Recoding Time : 438.58s
+
+Now time : 16:25:40
+Now percentage : 98.06451612903226%
+Recoding Time : 442.56s
+
+Now time : 16:25:44
+Now percentage : 98.07692307692307%
+Recoding Time : 446.54s
+
+Now time : 16:25:48
+Now percentage : 98.08917197452229%
+Recoding Time : 450.53s
+
+Now time : 16:25:52
+Now percentage : 98.10126582278481%
+Recoding Time : 454.52s
+
+Now time : 16:25:56
+Now percentage : 98.11320754716981%
+Recoding Time : 458.52s
+
+Now time : 16:26:00
+Now percentage : 98.125%
+Recoding Time : 462.48s
+
+Now time : 16:26:04
+Now percentage : 98.13664596273291%
+Recoding Time : 466.43s
+
+Now time : 16:26:08
+Now percentage : 98.14814814814815%
+Recoding Time : 470.39s
+
+Now time : 16:26:12
+Now percentage : 98.15950920245399%
+Recoding Time : 474.38s
+
+Now time : 16:26:16
+Now percentage : 98.17073170731707%
+Recoding Time : 478.33s
+
+Now time : 16:26:20
+Now percentage : 98.18181818181819%
+Recoding Time : 482.28s
+
+Now time : 16:26:24
+Now percentage : 98.19277108433735%
+Recoding Time : 486.27s
+
+Now time : 16:26:28
+Now percentage : 98.20359281437125%
+Recoding Time : 490.31s
+
+Now time : 16:26:35
+Now percentage : 98.21428571428571%
+Recoding Time : 496.67s
+
+Now time : 16:26:39
+Now percentage : 98.22485207100591%
+Recoding Time : 500.86s
+
+Now time : 16:26:43
+Now percentage : 98.23529411764706%
+Recoding Time : 504.88s
+
+Now time : 16:26:47
+Now percentage : 98.24561403508771%
+Recoding Time : 508.85s
+
+Now time : 16:26:51
+Now percentage : 98.25581395348837%
+Recoding Time : 512.82s
+
+Now time : 16:26:55
+Now percentage : 98.26589595375722%
+Recoding Time : 516.77s
+
+Now time : 16:26:59
+Now percentage : 98.28571428571429%
+Recoding Time : 520.74s
+
+Now time : 16:27:03
+Now percentage : 98.30508474576271%
+Recoding Time : 524.71s
+
+Now time : 16:27:07
+Now percentage : 98.32402234636871%
+Recoding Time : 528.74s
+
+Now time : 16:27:11
+Now percentage : 98.34254143646409%
+Recoding Time : 532.75s
+
+Now time : 16:27:15
+Now percentage : 98.36065573770492%
+Recoding Time : 536.81s
+
+Now time : 16:27:19
+Now percentage : 98.37837837837839%
+Recoding Time : 540.79s
+
+Now time : 16:27:23
+Now percentage : 98.3957219251337%
+Recoding Time : 544.76s
+
+Now time : 16:27:27
+Now percentage : 98.4126984126984%
+Recoding Time : 548.76s
+
+Now time : 16:27:31
+Now percentage : 98.42931937172776%
+Recoding Time : 552.73s
+
+Now time : 16:27:35
+Now percentage : 98.44559585492227%
+Recoding Time : 556.74s
+
+Now time : 16:27:39
+Now percentage : 98.46153846153847%
+Recoding Time : 560.82s
+
+Now time : 16:27:43
+Now percentage : 98.47715736040608%
+Recoding Time : 564.79s
+
+Now time : 16:27:47
+Now percentage : 98.49246231155779%
+Recoding Time : 568.76s
+
+Now time : 16:27:51
+Now percentage : 98.50746268656717%
+Recoding Time : 572.73s
+
+Now time : 16:27:55
+Now percentage : 98.52216748768473%
+Recoding Time : 576.77s
+
+Now time : 16:27:59
+Now percentage : 98.53658536585365%
+Recoding Time : 580.77s
+
+Now time : 16:28:03
+Now percentage : 98.55072463768117%
+Recoding Time : 584.82s
+
+Now time : 16:28:07
+Now percentage : 98.56459330143541%
+Recoding Time : 588.81s
+
+Now time : 16:28:11
+Now percentage : 98.5781990521327%
+Recoding Time : 592.82s
+
+Now time : 16:28:15
+Now percentage : 98.59154929577466%
+Recoding Time : 596.8s
+
+Now time : 16:28:19
+Now percentage : 98.6046511627907%
+Recoding Time : 600.78s
+
+Now time : 16:28:23
+Now percentage : 98.61751152073732%
+Recoding Time : 604.77s
+
+Now time : 16:28:27
+Now percentage : 98.63013698630137%
+Recoding Time : 608.74s
+
+Now time : 16:28:31
+Now percentage : 98.64253393665159%
+Recoding Time : 612.72s
+
+Now time : 16:28:37
+Now percentage : 98.65470852017937%
+Recoding Time : 619.36s
+
+Now time : 16:28:41
+Now percentage : 98.66666666666667%
+Recoding Time : 623.44s
+
+Now time : 16:28:45
+Now percentage : 98.6784140969163%
+Recoding Time : 627.41s
+
+Now time : 16:28:49
+Now percentage : 98.68995633187772%
+Recoding Time : 631.37s
+
+Now time : 16:28:53
+Now percentage : 98.7012987012987%
+Recoding Time : 635.33s
+
+Now time : 16:28:57
+Now percentage : 98.71244635193133%
+Recoding Time : 639.29s
+
+Now time : 16:29:01
+Now percentage : 98.72340425531915%
+Recoding Time : 643.26s
+
+Now time : 16:29:05
+Now percentage : 98.73417721518987%
+Recoding Time : 647.29s
+
+Now time : 16:29:09
+Now percentage : 98.74476987447699%
+Recoding Time : 651.29s
+
+Now time : 16:29:13
+Now percentage : 98.7551867219917%
+Recoding Time : 655.29s
+
+Now time : 16:29:17
+Now percentage : 98.76543209876543%
+Recoding Time : 659.33s
+
+Now time : 16:29:21
+Now percentage : 98.77551020408163%
+Recoding Time : 663.36s
+
+Now time : 16:29:25
+Now percentage : 98.78542510121457%
+Recoding Time : 667.36s
+
+Now time : 16:29:29
+Now percentage : 98.79518072289156%
+Recoding Time : 671.42s
+
+Now time : 16:29:33
+Now percentage : 98.80478087649402%
+Recoding Time : 675.42s
+
+Now time : 16:29:37
+Now percentage : 98.81422924901186%
+Recoding Time : 679.42s
+
+Now time : 16:29:41
+Now percentage : 98.82352941176471%
+Recoding Time : 683.44s
+
+Now time : 16:29:45
+Now percentage : 98.83268482490273%
+Recoding Time : 687.54s
+
+Now time : 16:29:49
+Now percentage : 98.84169884169884%
+Recoding Time : 691.54s
+
+Now time : 16:29:53
+Now percentage : 98.85057471264368%
+Recoding Time : 695.56s
+
+Now time : 16:29:57
+Now percentage : 98.85931558935361%
+Recoding Time : 699.52s
+
+Now time : 16:30:01
+Now percentage : 98.86792452830188%
+Recoding Time : 703.48s
+
+Now time : 16:30:05
+Now percentage : 98.87640449438202%
+Recoding Time : 707.45s
+
+Now time : 16:30:09
+Now percentage : 98.88475836431226%
+Recoding Time : 711.41s
+
+Now time : 16:30:13
+Now percentage : 98.8929889298893%
+Recoding Time : 715.37s
+
+Now time : 16:30:17
+Now percentage : 98.9010989010989%
+Recoding Time : 719.33s
+
+Now time : 16:30:21
+Now percentage : 98.9090909090909%
+Recoding Time : 723.3s
+
+Now time : 16:30:25
+Now percentage : 98.91696750902527%
+Recoding Time : 727.25s
+
+Now time : 16:30:29
+Now percentage : 98.9247311827957%
+Recoding Time : 731.24s
+
+Now time : 16:30:33
+Now percentage : 98.93238434163702%
+Recoding Time : 735.19s
+
+Now time : 16:30:38
+Now percentage : 98.93992932862191%
+Recoding Time : 740.41s
+
+Now time : 16:30:42
+Now percentage : 98.94736842105263%
+Recoding Time : 744.44s
+
+Now time : 16:30:46
+Now percentage : 98.95470383275261%
+Recoding Time : 748.51s
+
+Now time : 16:30:51
+Now percentage : 98.96193771626297%
+Recoding Time : 752.63s
+
+Now time : 16:30:55
+Now percentage : 98.96907216494846%
+Recoding Time : 756.63s
+
+Now time : 16:30:59
+Now percentage : 98.97610921501706%
+Recoding Time : 760.66s
+
+Now time : 16:31:03
+Now percentage : 98.30508474576271%
+Recoding Time : 764.65s
+
+Now time : 16:31:07
+Now percentage : 97.97297297297297%
+Recoding Time : 768.59s
+
+Now time : 16:31:11
+Now percentage : 97.64309764309765%
+Recoding Time : 772.62s
+
+Now time : 16:31:15
+Now percentage : 97.31543624161074%
+Recoding Time : 776.58s
+
+Now time : 16:31:19
+Now percentage : 96.98996655518395%
+Recoding Time : 780.59s
+
+Now time : 16:31:22
+Now percentage : 96.66666666666667%
+Recoding Time : 784.54s
+
+Now time : 16:31:26
+Now percentage : 96.3455149501661%
+Recoding Time : 788.5s
+
+Now time : 16:31:30
+Now percentage : 96.02649006622516%
+Recoding Time : 792.46s
+
+Now time : 16:31:34
+Now percentage : 95.7095709570957%
+Recoding Time : 796.41s
+
+Now time : 16:31:38
+Now percentage : 95.39473684210526%
+Recoding Time : 800.37s
+
+Now time : 16:31:42
+Now percentage : 95.40983606557377%
+Recoding Time : 804.37s
+
+Now time : 16:31:46
+Now percentage : 95.42483660130719%
+Recoding Time : 808.36s
+
+Now time : 16:31:50
+Now percentage : 95.43973941368078%
+Recoding Time : 812.43s
+
+Now time : 16:31:54
+Now percentage : 95.45454545454545%
+Recoding Time : 816.38s
+
+Now time : 16:31:58
+Now percentage : 95.46925566343042%
+Recoding Time : 820.41s
+
+Now time : 16:32:02
+Now percentage : 95.48387096774194%
+Recoding Time : 824.38s
+
+Now time : 16:32:06
+Now percentage : 95.4983922829582%
+Recoding Time : 828.34s
+
+Now time : 16:32:10
+Now percentage : 95.51282051282051%
+Recoding Time : 832.3s
+
+Now time : 16:32:14
+Now percentage : 95.52715654952077%
+Recoding Time : 836.25s
+
+Now time : 16:32:18
+Now percentage : 95.54140127388536%
+Recoding Time : 840.2s
+
+Now time : 16:32:22
+Now percentage : 95.55555555555556%
+Recoding Time : 844.18s
+
+Now time : 16:32:26
+Now percentage : 95.56962025316456%
+Recoding Time : 848.23s
+
+Now time : 16:32:30
+Now percentage : 95.58359621451105%
+Recoding Time : 852.21s
+
+Now time : 16:32:39
+Now percentage : 95.59748427672956%
+Recoding Time : 861.41s
+
+Now time : 16:32:43
+Now percentage : 95.61128526645768%
+Recoding Time : 865.37s
+
+Now time : 16:32:47
+Now percentage : 95.625%
+Recoding Time : 869.39s
+
+Now time : 16:32:51
+Now percentage : 95.6386292834891%
+Recoding Time : 873.42s
+
+Now time : 16:32:55
+Now percentage : 95.65217391304348%
+Recoding Time : 877.54s
+
+Now time : 16:32:59
+Now percentage : 95.6656346749226%
+Recoding Time : 881.53s
+
+Now time : 16:33:03
+Now percentage : 95.07692307692308%
+Recoding Time : 885.52s
+
+Now time : 16:33:07
+Now percentage : 94.4954128440367%
+Recoding Time : 889.5s
+
+Now time : 16:33:11
+Now percentage : 93.9209726443769%
+Recoding Time : 893.51s
+
+Now time : 16:33:15
+Now percentage : 93.35347432024169%
+Recoding Time : 897.5s
+
+Now time : 16:33:19
+Now percentage : 92.7927927927928%
+Recoding Time : 901.5s
+
+Now time : 16:33:23
+Now percentage : 92.23880597014926%
+Recoding Time : 905.47s
+
+Now time : 16:33:27
+Now percentage : 91.69139465875371%
+Recoding Time : 909.44s
+
+Now time : 16:33:31
+Now percentage : 91.1504424778761%
+Recoding Time : 913.42s
+
+Now time : 16:33:35
+Now percentage : 90.6158357771261%
+Recoding Time : 917.42s
+
+Now time : 16:33:39
+Now percentage : 90.0874635568513%
+Recoding Time : 921.43s
+
+Now time : 16:33:43
+Now percentage : 89.56521739130436%
+Recoding Time : 925.43s
+
+Now time : 16:33:47
+Now percentage : 89.04899135446685%
+Recoding Time : 929.42s
+
+Now time : 16:33:51
+Now percentage : 88.53868194842407%
+Recoding Time : 933.39s
+
+Now time : 16:33:55
+Now percentage : 88.03418803418803%
+Recoding Time : 937.44s
+
+Now time : 16:34:00
+Now percentage : 87.53541076487252%
+Recoding Time : 941.59s
+
+Now time : 16:34:04
+Now percentage : 87.04225352112675%
+Recoding Time : 945.57s
+
+Now time : 16:34:07
+Now percentage : 86.5546218487395%
+Recoding Time : 949.52s
+
+Now time : 16:34:11
+Now percentage : 86.0724233983287%
+Recoding Time : 953.54s
+
+Now time : 16:34:15
+Now percentage : 85.59556786703601%
+Recoding Time : 957.5s
+
+Now time : 16:34:19
+Now percentage : 85.12396694214877%
+Recoding Time : 961.47s
+
+Now time : 16:34:23
+Now percentage : 84.65753424657534%
+Recoding Time : 965.45s
+
+Now time : 16:34:27
+Now percentage : 84.19618528610354%
+Recoding Time : 969.41s
+
+Now time : 16:34:31
+Now percentage : 83.73983739837398%
+Recoding Time : 973.37s
+
+Now time : 16:34:35
+Now percentage : 83.28840970350404%
+Recoding Time : 977.38s
+
+Now time : 16:34:39
+Now percentage : 82.84182305630027%
+Recoding Time : 981.34s
+
+Now time : 16:34:44
+Now percentage : 82.39999999999999%
+Recoding Time : 986.29s
+
+Now time : 16:34:48
+Now percentage : 81.9628647214854%
+Recoding Time : 990.31s
+
+Now time : 16:34:52
+Now percentage : 81.53034300791556%
+Recoding Time : 994.28s
+
+Now time : 16:34:56
+Now percentage : 81.10236220472441%
+Recoding Time : 998.29s
+
+Now time : 16:35:00
+Now percentage : 80.67885117493474%
+Recoding Time : 1002.38s
+
+Now time : 16:35:04
+Now percentage : 80.25974025974027%
+Recoding Time : 1006.33s
+
+Now time : 16:35:08
+Now percentage : 80.05181347150258%
+Recoding Time : 1010.36s
+
+Now time : 16:35:12
+Now percentage : 79.84496124031007%
+Recoding Time : 1014.38s
+
+Now time : 16:35:16
+Now percentage : 79.63917525773195%
+Recoding Time : 1018.36s
+
+Now time : 16:35:20
+Now percentage : 79.43444730077121%
+Recoding Time : 1022.37s
+
+Now time : 16:35:24
+Now percentage : 79.23076923076923%
+Recoding Time : 1026.35s
+
+Now time : 16:35:28
+Now percentage : 79.02813299232737%
+Recoding Time : 1030.37s
+
+Now time : 16:35:32
+Now percentage : 78.8265306122449%
+Recoding Time : 1034.34s

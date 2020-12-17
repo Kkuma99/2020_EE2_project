@@ -2,16 +2,16 @@ import cv2             # for image processing
 import time            # for FPS
 import numpy as np     
 import argparse        # for 인자
-import streamlink
-import datetime
+import streamlink      # for video streaming (python library)
+import datetime        # for recording -txt file
 
-url = 'https://youtu.be/myWD76xcp5g'
-streams = streamlink.streams(url)
+url = 'https://youtu.be/myWD76xcp5g' # using live stream video -> use url to get the video file
+streams = streamlink.streams(url)    # live stream video is saved in this 'streams'
 
+# 인자
 parser = argparse.ArgumentParser(description='Run keypoint detection')
 parser.add_argument("--device", default="cpu", help="Device to inference on") # 거의 픽스해서 사용
-parser.add_argument("--video_file", default="sitting_short_right.mp4", help="Input Video") # Input
-side = 1 # left:1 / right:2
+side = 1 # left:1 / right:2 -> 앉는 자세별로 위치 조정
 args = parser.parse_args()
 
 MODE = "MPI" # 모드 픽스하기
@@ -41,12 +41,13 @@ threshold = 0.34 # 적절한 쓰레시 값
 
 input_source = args.video_file       #사용자에게 input 받은 비디오 파일 사용
 #cap = cv2.VideoCapture(input_source)
-cap = cv2.VideoCapture(streams["360p"].url)
-hasFrame, frame = cap.read()
+cap = cv2.VideoCapture(streams["360p"].url) # 비디오 스트림 사용
+hasFrame, frame = cap.read()                # 스트림 읽어서 적용
 
-vid_writer = cv2.VideoWriter('output_recent.avi',cv2.VideoWriter_fourcc('M','J','P','G'), 10, (frame.shape[1],frame.shape[0])) # output 저장
+vid_writer = cv2.VideoWriter('sitting_vid.avi',cv2.VideoWriter_fourcc('M','J','P','G'), 10, (frame.shape[1],frame.shape[0])) # output 저장
 
-proper_steck=0    # proper/wrong percentage
+# proper/wrong percentage -> used when recording text file
+proper_steck=0
 wrong_steck=0
 percentage=0
 
@@ -59,11 +60,12 @@ elif args.device == "gpu":
     net.setPreferableTarget(cv2.dnn.DNN_TARGET_CUDA)
     print("Using GPU device")
 
-f=open("output_recent.txt",'w')
-now=datetime.datetime.now()
-nowDate=now.strftime('%Y-%m-%d')
+# save output
+f=open("sitting_output.txt",'w')
+now=datetime.datetime.now()        # write the time when this is recorded
+nowDate=now.strftime('%Y-%m-%d')  
 f.write('{}\n'.format(nowDate))
-a=time.time()
+a=time.time()                      # current time
 
 # 동영상 처리
 while cv2.waitKey(1) < 0:
@@ -114,17 +116,16 @@ while cv2.waitKey(1) < 0:
             if side == 1:
                 if i in [0,11,12,14]:
                     cv2.circle(frameCopy, (int(x), int(y)), 8, (0, 255, 255), thickness=-1, lineType=cv2.FILLED)
-                    #cv2.putText(frameCopy, "{}".format(i), (int(x), int(y)), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2, lineType=cv2.LINE_AA)
             elif side == 2:
                 if i in [0,8,9,14]:
                     cv2.circle(frameCopy, (int(x), int(y)), 8, (0, 255, 255), thickness=-1, lineType=cv2.FILLED)
-                    #cv2.putText(frameCopy, "{}".format(i), (int(x), int(y)), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2, lineType=cv2.LINE_AA)
 
             # Add the point to the list if the probability is greater than the threshold
             points.append((int(x), int(y)))
         else :
             points.append(None)
 
+    # detecting angle between points
     def __angle_between(p1,p2):
         ang1=np.arctan2(*p1[::-1])
         ang2=np.arctan2(*p2[::-1])
@@ -191,12 +192,10 @@ while cv2.waitKey(1) < 0:
     cv2.putText(frame, "angle:{:.0f}".format(getAngle3P(0,1,14)), (int(point_x[1]), int(point_y[1])), cv2.FONT_HERSHEY_PLAIN, 0.8, (0, 0, 0), 2, lineType=cv2.LINE_AA)
     cv2.putText(frame, "angle:{:.0f}".format(getAngle3P(1,14,8)), (int(point_x[14]), int(point_y[14])), cv2.FONT_HERSHEY_PLAIN, 0.8, (0, 0, 0), 2, lineType=cv2.LINE_AA)
     cv2.putText(frame, "angle:{:.0f}".format(getAngle3P(14,8,9)), (int(point_x[8]), int(point_y[8])), cv2.FONT_HERSHEY_PLAIN, 0.8, (0, 0, 0), 2, lineType=cv2.LINE_AA)
-    # cv2.putText(frame, "OpenPose using OpenCV", (50, 50), cv2.FONT_HERSHEY_COMPLEX, 1, (255, 50, 0), 2, lineType=cv2.LINE_AA)
-    # cv2.imshow('Output-Keypoints', frameCopy)
-    #cv2.imshow('Output-Skeleton', frame)
+
     now=datetime.datetime.now()
     nowTime=now.strftime('%H:%M:%S')
-    record_time = round(time.time()-a,2)
+    record_time = round(time.time()-a,2) # code run time
     f.write('\nNow time : {}\n'.format(nowTime))
     f.write('Now percentage : {}%\n'.format(percentage))
     f.write('Recoding Time : {}s\n'.format(record_time))
